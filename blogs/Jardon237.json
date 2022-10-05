@@ -1,6 +1,17 @@
 {
+    "post":[
+        {
     "Title": "Which Django versions should i use?",
     "Description": "This article explains which django version is preferable to use",
     "URL": "https://www.mattlayman.com/blog/2021/which-django-version",
     "Author": "Matt Layman"
-}
+        },
+        {
+    "Title": "What's the Difference Between the Git Fetch and Git Pull Commands?",
+    "Description": "This article explains the diffrence between git fetch and git pull",
+    "URL": "https://www.freecodecamp.org/news/git-fetch-vs-pull",
+    "Author": "free codecamp"
+    
+        }
+    ]
+}       
